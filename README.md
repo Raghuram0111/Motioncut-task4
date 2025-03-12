@@ -1,1 +1,11 @@
-# Motioncut-task4
+Name : MYLAPILLI RAGHURAM
+
+Company: MotionCut
+
+Internship Details:
+
+● Position: Web Development Intern
+
+● Duration: 2 Months
+
+● Start Date: 5th February 2025
